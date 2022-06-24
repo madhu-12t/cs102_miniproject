@@ -2,9 +2,10 @@
   list-style-type: none;
   margin: 0;
   padding: 0;
-  overflow: hidden;
+  overflow: hidden;  /*if the content exceeds the given space it just cuts that*/
   background-color: #1F2029;
   height: 80px;
+ 
 }
 
 .ul_1 {
@@ -71,3 +72,4 @@ h2 {
 .title{
   height: 80px;
 }
+
